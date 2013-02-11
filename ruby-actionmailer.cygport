@@ -1,0 +1,10 @@
+inherit rubygem
+
+NAME="ruby-actionmailer"
+VERSION=3.2.11
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby Action Mailer extension"
+DESCRIPTION="Email on Rails. Compose, deliver, receive, and test emails using
+the familiar controller/view pattern. First-class support for multipart email
+and attachments."
